@@ -17,6 +17,16 @@ Watson Knowledge Studio and Watson Discovery tutorials
 
 7. Neunet - 60 minutes - Jeff Harris 
 
+## Additional Tutorials and Blogs
+
+1. SDU - https://cloud.ibm.com/docs/services/discovery?topic=discovery-sdu
+
+### Best Practices 
+
+1. https://medium.com/@juliacloudai/watson-knowledge-studio-tips-tricks-60466df0a204
+
+2. https://medium.com/@jasantovi/5-things-to-consider-before-you-jump-start-a-watson-knowledge-studio-model-781f21a366bb
+
 ## Contact info 
 
 @helennnsays | helen.lam@ibm.com 
